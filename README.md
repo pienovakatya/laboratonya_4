@@ -2,8 +2,8 @@
 <h2 align="center">Розробка додатку для візуалізації вимірювань радару</h2>
 
 <div align="center">
- <a href="https://codepen.io/pienovakatsya/pen/radar-visualization" target="_blank">
-    <img style="width: 300%; height: 300%;" src="https://codepen.io/pienovakatya/pen/vEBGbLG" alt="Open in CodePen"/>
+ <a href="[https://codepen.io/pienovakatsya/pen/radar-visualization](https://codepen.io/pienovakatya/pen/vEBGbLG)" target="_blank">
+      <img style="width: 300%; height: 300%;" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Open in CodePen"/>
  </a>
 </div>
 
@@ -19,7 +19,7 @@
 Розроблений веб-додаток представляє собою інтерактивний радарний дисплей з круговою координатною сіткою та елементами керування параметрами.
 
 <p align="center">
- <img src="Screenshots/1.png" alt="1"/>
+ <img src="Screenshots/1.PNG" alt="1"/>
 </p>
 <p align="center">Головний інтерфейс програми з радарним дисплеєм та панеллю налаштувань</p>
 
@@ -27,7 +27,7 @@
 При виявленні цілі система відображає її позицію та характеристики на радарному дисплеї з відповідними координатами та рівнем сигналу.
 
 <p align="center">
- <img src="Screenshots/2.png" alt="2"/>
+ <img src="Screenshots/2.PNG" alt="2"/>
 </p>
 <p align="center">Відображення виявленої цілі з координатами та параметрами сигналу</p>
 
@@ -38,7 +38,7 @@
 - Швидкість руху цілей (від 100 до 10000 км/год)
 
 <p align="center">
- <img src="Screenshots/3.png" alt="3"/>
+ <img src="Screenshots/3.PNG" alt="3"/>
 </p>
 <p align="center">Демонстрація роботи системи з підвищеною швидкістю сканування, що дозволяє виявляти більше цілей</p>
 
@@ -46,7 +46,7 @@
 При збільшенні кількості вимірювань та швидкості обертання покращується деталізація сканування, але збільшується навантаження на систему.
 
 <p align="center">
- <img src="Screenshots/4.png" alt="4"/>
+ <img src="Screenshots/4.PNG" alt="4"/>
 </p>
 <p align="center">Режим роботи з оптимізованими параметрами для балансу між швидкістю та точністю сканування</p>
 
